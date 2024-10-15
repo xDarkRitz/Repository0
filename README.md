@@ -1,2 +1,2 @@
 # Repository0
-This is a exercise for Jupyter Notebooks
+This is an exercise for Jupyter Notebooks
